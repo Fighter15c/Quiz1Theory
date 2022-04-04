@@ -1,0 +1,85 @@
+div{
+    
+    
+   margin:0px;
+   padding: 0px;
+    
+}
+.container{
+    border:2px solid orange;
+    
+    padding: 0%;
+    
+}
+.row{
+    width: 100%;
+    margin:0;
+    padding-left: 0px;
+}
+
+#col2{
+    float:right;
+    margin: 0%;
+    padding: 0%;
+}
+#col2r{
+    border-top: 2px solid orange;
+}
+#col1h1{
+    color: orange;
+}
+
+img{
+    float: right;
+}
+
+button{
+   
+    width: 150px;
+    height: 70px;
+    margin-left: 110px;
+    margin-top: 90px;
+}
+/* #button{
+    border: 20px solid black; 
+    height: 170px; 
+} */
+#se{
+    border-top: 2px solid orange;
+    border-bottom: 2px solid orange;
+}
+#edu{
+    border-top: 2px solid orange;
+    border-bottom: 2px solid orange;
+}
+#we{
+    border-top: 2px solid orange;
+    border-bottom: 2px solid orange;
+}
+#ks{
+    border-top: 1px solid orange;
+    border-bottom: 2px solid orange;
+}
+
+.btn-secondary {
+    color: #fff;
+    background-color: orange;  
+
+}
+.btn-secondary:hover {
+    background-color: orangered;
+
+}
+button:hover{
+    background-color: orangered;
+
+}
+
+.themeblack2{
+    background-color: black;
+}
+.themewhitep2{
+    color:white;
+}
+
+
